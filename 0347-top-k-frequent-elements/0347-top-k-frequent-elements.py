@@ -5,7 +5,7 @@ class Solution:
         for num in nums:
             occurrences[num] += 1
 
-        sorted_occurrences = sorted(occurrences, key=occurrences.get, reverse=True)
+        sorted_occurrences = sorted(occurrences, key=lambda num: occurrences[num], reverse=True)
 
         top_elements = []
 
