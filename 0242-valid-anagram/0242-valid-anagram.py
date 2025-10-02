@@ -3,10 +3,10 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        seen = {}
+        seen = defaultdict(int)
 
         for c in s:
-            seen[c] = seen.get(c, 0) + 1
+            seen[c] += 1
         
         for c in t:
             if c not in seen:
