@@ -19,4 +19,4 @@ class Solution:
                 elif token == '/':
                     stack.append(int(a / b))
 
-        return stack[0]
+        return stack.pop()
