@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Backtracking
 |  |
 | ------- |
