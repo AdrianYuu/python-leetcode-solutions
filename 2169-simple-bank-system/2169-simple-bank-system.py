@@ -20,6 +20,7 @@ class Bank:
             return False
 
         self.balance[account - 1] += money
+        
         return True
 
     def withdraw(self, account: int, money: int) -> bool:
