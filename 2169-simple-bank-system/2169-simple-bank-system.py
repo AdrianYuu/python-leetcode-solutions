@@ -1,7 +1,4 @@
 class Bank:
-    balance = []
-    n = 0
-
     def __init__(self, balance: List[int]):
         self.balance = balance
         self.n = len(balance)
