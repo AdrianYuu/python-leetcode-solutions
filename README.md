@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0792-binary-search) |
+| [2169-simple-bank-system](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2169-simple-bank-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2169-simple-bank-system](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2169-simple-bank-system) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0155-min-stack) |
+| [2169-simple-bank-system](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2169-simple-bank-system) |
 ## Math
 |  |
 | ------- |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
