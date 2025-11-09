@@ -10,4 +10,4 @@ class Solution:
 
             stack.append((index, temperature))
 
-        return result 
+        return result
