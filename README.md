@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0883-car-fleet) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2169-simple-bank-system](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
