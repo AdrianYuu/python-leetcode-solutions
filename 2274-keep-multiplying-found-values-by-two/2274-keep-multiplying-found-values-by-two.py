@@ -1,9 +1,7 @@
 class Solution:
     def findFinalValue(self, nums: List[int], original: int) -> int:
-        nums.sort()
-
-        for num in nums:
-            if num == original:
+        while True:
+            if original in nums:
                 original *= 2
-
-        return original 
+            else:
+                return original
