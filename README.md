@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2169-simple-bank-system](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [2169-simple-bank-system](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0883-car-fleet) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## String
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
 | ------- |
