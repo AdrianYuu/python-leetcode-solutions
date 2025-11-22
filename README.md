@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Backtracking
 |  |
