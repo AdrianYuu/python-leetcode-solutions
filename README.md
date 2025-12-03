@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0883-car-fleet) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2169-simple-bank-system](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2169-simple-bank-system) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
