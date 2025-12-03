@@ -9,6 +9,8 @@ class Solution:
         while left <= right:
             mid = left + (right - left) // 2
 
+            # only update if the target is greater 
+            # than the first index of the new mid
             if target > matrix[mid][0]:
                 row = mid
 
