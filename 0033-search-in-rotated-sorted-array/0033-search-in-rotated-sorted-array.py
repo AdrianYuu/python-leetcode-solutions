@@ -23,11 +23,9 @@ class Solution:
         # must be on the second array
         if target < nums[0]:
             left = min_idx
-        # must be on the first array
+        # must be on the first array but only update if its have 2 part of array
         elif min_idx != left:
             right = min_idx - 1
-
-        print(f'Left: {left}, Right: {right}')
 
         # do another binary search based on the condition
         while left <= right:
