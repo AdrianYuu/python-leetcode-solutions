@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
