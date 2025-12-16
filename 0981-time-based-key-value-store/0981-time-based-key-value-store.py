@@ -8,10 +8,8 @@ class TimeMap:
 
     def get(self, key: str, timestamp: int) -> str:
         current = self.time_map[key]
-
         left = 0
         right = len(current) - 1
-
         result = ""
 
         while left <= right:
