@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0883-car-fleet) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2169-simple-bank-system](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0981-time-based-key-value-store](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
