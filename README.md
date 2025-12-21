@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [2169-simple-bank-system](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0981-time-based-key-value-store](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -202,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
