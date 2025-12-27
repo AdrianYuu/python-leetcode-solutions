@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Enumeration
 |  |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0567-permutation-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
