@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Enumeration
@@ -210,5 +211,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
