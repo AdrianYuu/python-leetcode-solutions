@@ -7,7 +7,7 @@ class Solution:
         second = len(nums2)
         first = len(nums1) - second
 
-        while (first > 0) and (second > 0):
+        while first and second:
             if nums1[first - 1] >= nums2[second - 1]:
                 nums1[main - 1] = nums1[first - 1]
                 first -= 1
@@ -16,12 +16,12 @@ class Solution:
                 second -= 1
             main -= 1
 
-        while first > 0:
+        while first:
             nums1[main - 1] = nums1[first - 1]
             first -= 1
             main -= 1
         
-        while second > 0:
+        while second:
             nums1[main - 1] = nums2[second - 1]
             main -= 1
             second -= 1
