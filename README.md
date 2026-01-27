@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0981-time-based-key-value-store) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
