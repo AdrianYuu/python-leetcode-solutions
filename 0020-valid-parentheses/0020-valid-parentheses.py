@@ -9,7 +9,7 @@ class Solution:
                 stack.append('}')
             elif c == '[':
                 stack.append(']')
-            elif not stack or c != stack.pop():
-                return False
+            elif not stack or stack.pop() != c:
+                    return False
 
         return not stack
