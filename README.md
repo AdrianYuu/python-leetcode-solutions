@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0078-subsets) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
