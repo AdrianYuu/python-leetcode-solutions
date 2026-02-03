@@ -11,7 +11,7 @@ class Solution:
 
             # use the current value
             subset.append(nums[i])
-            # and do backtrack again
+            # do backtrack again
             backtrack(i + 1)
             # after that remove the value again
             subset.pop()
