@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0883-car-fleet) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1046-last-stone-weight](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2169-simple-bank-system](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/2169-simple-bank-system) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
