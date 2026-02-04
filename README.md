@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AdrianYuu/python-leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
