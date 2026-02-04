@@ -18,6 +18,4 @@ class Solution:
                 dp[i - 1] # skip current house
             )
 
-        print(dp)
-
         return dp[length - 1]
